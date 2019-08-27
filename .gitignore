@@ -1,0 +1,4 @@
+*~
+src/*_prot.erl
+_build/
+rebar.lock
